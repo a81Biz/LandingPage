@@ -22,4 +22,4 @@ jobs:
               repo: 'PAM',
               workflow_id: 'main.yml',
               ref: 'master'
-            })
+            }) 
